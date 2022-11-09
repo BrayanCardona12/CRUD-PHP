@@ -1,0 +1,16 @@
+#c, .row{
+    height: 80vh;
+  }
+
+iframe {
+    display: block;
+    height: 90%;
+}
+
+.cont-btn {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
